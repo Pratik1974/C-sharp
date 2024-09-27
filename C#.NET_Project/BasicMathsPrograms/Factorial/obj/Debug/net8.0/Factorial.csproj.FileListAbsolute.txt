@@ -1,0 +1,14 @@
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\prati\OneDrive\Desktop\All_Project\C#.NET_Project\BasicMathsPrograms\Factorial\obj\Debug\net8.0\ref\Factorial.dll
